@@ -11,6 +11,8 @@
 		B35547BA2646370100695170 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B35547B92646370100695170 /* ContentView.swift */; };
 		B35547BC2646370300695170 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B35547BB2646370300695170 /* Assets.xcassets */; };
 		B35547BF2646370300695170 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B35547BE2646370300695170 /* Preview Assets.xcassets */; };
+		B35547C726463A5C00695170 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B35547C626463A5C00695170 /* DetailView.swift */; };
+		B35547C926463C0F00695170 /* PopupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B35547C826463C0F00695170 /* PopupView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		B35547BB2646370300695170 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B35547BE2646370300695170 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B35547C02646370300695170 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B35547C626463A5C00695170 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		B35547C826463C0F00695170 /* PopupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopupView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				B35547B72646370100695170 /* listsAndNavDemoApp.swift */,
 				B35547B92646370100695170 /* ContentView.swift */,
+				B35547C826463C0F00695170 /* PopupView.swift */,
+				B35547C626463A5C00695170 /* DetailView.swift */,
 				B35547BB2646370300695170 /* Assets.xcassets */,
 				B35547C02646370300695170 /* Info.plist */,
 				B35547BD2646370300695170 /* Preview Content */,
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				B35547BA2646370100695170 /* ContentView.swift in Sources */,
+				B35547C926463C0F00695170 /* PopupView.swift in Sources */,
+				B35547C726463A5C00695170 /* DetailView.swift in Sources */,
 				B35547B82646370100695170 /* listsAndNavDemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
