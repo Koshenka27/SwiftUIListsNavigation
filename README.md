@@ -4,3 +4,6 @@ This is a very simple repo from a tutorial I posted on YouTube teaching the basi
 
 
 [![Simulator-Screen-Shot-i-Phone-12-Pro-2021-05-08-at-00-04-44.png](https://i.postimg.cc/MTvF27vt/Simulator-Screen-Shot-i-Phone-12-Pro-2021-05-08-at-00-04-44.png)](https://postimg.cc/xJVRLbGb)
+
+We cover SwiftUI Navigation, List, Modal, and Stacks, among a few other things.
+Here is the tutorial: https://youtu.be/BqbrVNtZIqw
